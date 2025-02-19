@@ -4,7 +4,7 @@ Remember Clippy? We’re bringing it back—better, smarter, and open-source! St
 You can use it as a system-wide assistant or integrate it into apps like Google Docs, MS Office, VS Code, or your browser. With AI-powered insights and rule-based automation, Staplr makes tedious tasks easier—so you can focus on what truly matters.
 
 
-Participants:
+Participants: <br />
 Karmadeept Sarkar: https://www.linkedin.com/in/karmadeept-sarkar-31891627b/  <br />
 Jay Shejwal: https://www.linkedin.com/in/eesha-barad-058bbb29b/  <br />
 Eesha Barad: https://www.linkedin.com/in/jay-s-80187b202/  <br />
