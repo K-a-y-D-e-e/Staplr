@@ -5,7 +5,7 @@ You can use it as a system-wide assistant or integrate it into apps like Google 
 
 
 Participants:
-Karmadeept Sarkar: https://www.linkedin.com/in/karmadeept-sarkar-31891627b/ 
-Jay Shejwal: https://www.linkedin.com/in/eesha-barad-058bbb29b/
-Eesha Barad: https://www.linkedin.com/in/jay-s-80187b202/
-Sai Ansh Batho: https://www.linkedin.com/in/sai-ansh-batho-aa3327256/
+Karmadeept Sarkar: https://www.linkedin.com/in/karmadeept-sarkar-31891627b/  <br />
+Jay Shejwal: https://www.linkedin.com/in/eesha-barad-058bbb29b/  <br />
+Eesha Barad: https://www.linkedin.com/in/jay-s-80187b202/  <br />
+Sai Ansh Batho: https://www.linkedin.com/in/sai-ansh-batho-aa3327256/  <br />
