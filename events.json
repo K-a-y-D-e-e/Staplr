@@ -1,0 +1,23 @@
+[
+    {
+        "date": "2025-02-22",
+        "time": "20:22",
+        "duration": "30 mins",
+        "description": "a project submission",
+        "reminder": true
+    },
+    {
+        "date": "2025-02-22",
+        "time": "20:24",
+        "duration": "30 mins",
+        "description": "project submission",
+        "reminder": true
+    },
+    {
+        "date": "2025-02-22",
+        "time": "20:26",
+        "duration": "30 mins",
+        "description": "project submission",
+        "reminder": true
+    }
+]
