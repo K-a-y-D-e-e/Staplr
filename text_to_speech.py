@@ -8,3 +8,4 @@ def speak_text(text):
 
 if __name__ == "__main__":
     speak_text("This is a test for text-to-speech.")
+
