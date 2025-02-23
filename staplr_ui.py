@@ -44,6 +44,9 @@ class StaplrUI(ctk.CTk):
         self.clear_btn = ctk.CTkButton(self.button_frame, text="Clear", command=self.clear_output)
         self.clear_btn.pack(side="left", padx=10)
 
+        self.help_btn = ctk.CTkButton(self.button_frame, text="Help", command=self.show_help)
+        self.help_btn.pack(side="left", padx=10)    
+
         # File Label
         self.file_label = ctk.CTkLabel(self, text="No file selected", text_color="lightgray")
         self.file_label.pack(pady=5)
@@ -89,6 +92,22 @@ class StaplrUI(ctk.CTk):
         """Utility function to insert text into the output box."""
         self.output_box.insert("end", text + "\n")
         self.output_box.see("end")  # Auto-scroll to the latest entry
+
+    def show_help(self):
+        """Displays the available features and how to use them."""
+        help_text = (
+            "📌 **Staplr Features:**\n"
+            "- 🔊 **Text to Speech**: Reads aloud text from attached documents.\n"
+            "- ⏰ **Setting/Scheduling a Reminder**: Use 'Remind me of <event> at <HH:MM>' to schedule reminders.\n"
+            "- ✉️ **Helps With Writing an Email**: Provides email suggestions.\n"
+            "- 📊 **EDA Analysis**: Performs exploratory data analysis on CSV files.\n\n"
+            "📢 **Prompt Guidelines:**\n"
+            "- Use 'Read this file' to have the document read aloud.\n"
+            "- Use 'Perform EDA on this file' to analyze a CSV file.\n"
+            "- Use 'Remind me of <event> at <HH:MM>' to set a reminder.\n"
+            "- Ask in natural language for email suggestions."
+        )
+        self.display_output(help_text)
 
 # Run UI
 if __name__ == "__main__":
