@@ -1,0 +1,9 @@
+pip install pandas #For data handling and analysis.
+pip install matplotlib #For plotting graphs.
+pip install seaborn #For statistical data visualization.
+pip install customtkinter #For enhanced Tkinter UI.
+pip install pyttsx3 #For text-to-speech functionality.
+pip install python-docx #For working with Word documents.
+pip install ollama #For AI-related operations.
+ 
+#Since threading, datetime, os, csv, json, tkinter, and time are built-in Python libraries, they don’t require installation.
